@@ -15,7 +15,7 @@ setup(
     long_description = "Simple work with lava",
     license = "MIT Licence",
  
-    url = "https://github.com/DephPhascow/py-graphql",
+    url = "https://github.com/DephPhascow/py_lava_api",
     author = AUTHOR,
     author_email = EMAIL,
  
